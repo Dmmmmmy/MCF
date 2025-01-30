@@ -10,7 +10,7 @@
 
 （3）比较原来模型和对偶模型的求解时间和优化目标值
 
-![1738213423388](D:\Postgrad\研一\通信网\网络优化\Main_cplex\assets\1738213423388.png)
+![1738213423388](https://github.com/Dmmmmmy/MCF/blob/main/assets/1738213423388.png)
 
 对于上图未标明容量的链路，均假设其未500
 
@@ -41,7 +41,7 @@ Graph saved at data/cplex_optimized_loadrate.png
 
 并导出原始模型和对偶模型的lp文件
 
-![1733280729794](D:\Postgrad\研一\通信网\网络优化\Main_cplex\assets/1733280729794.png)
+![1733280729794](https://github.com/Dmmmmmy/MCF/blob/main/assets/1733280729794.png)
 
 ### 2. 如需修改备选路径数或重新生成网络流和权重
 
